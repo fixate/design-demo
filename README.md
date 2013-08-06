@@ -1,4 +1,5 @@
-# Design Demo
+Design Demo
+===
 
 A template for demoing a rasterised design as a website in the browser.
 
