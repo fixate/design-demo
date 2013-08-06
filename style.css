@@ -1,5 +1,18 @@
 * { margin: 0; padding: 0;}
 
-body {}
+body { background-color: #fff;}
 
 .ac { text-align: center;}
+
+.hint {
+	position: fixed;
+	background-color: #fff;
+	background-color: hsla(0,0%,100%,.35);
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+	color: #000;
+	color: hsla(0,0%,0%,.75);
+	right: 2em;
+	bottom:  2em;
+	padding: 1em 1.5em;
+}
